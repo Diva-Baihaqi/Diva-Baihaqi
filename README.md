@@ -41,8 +41,9 @@ I'm a passionate Web Developer with experience in creating dynamic and responsiv
 
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?Diva-Baihaqi=Diva-Baihaqi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Diva-Baihaqi=Diva-Baihaqi&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
 
 ## 📫 How to reach me
 - *Email:* [diva.babah@gmail.com](mailto:diva.babah@gmail.com)
