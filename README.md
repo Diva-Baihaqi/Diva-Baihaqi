@@ -9,8 +9,8 @@
 
 [![](./src/header_.png)](#)
 
-> <b>I'm a Web Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Python, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning.</b>\
-> Want to discuss something? You can reach out to me on discord at <b>Dwanzil#8489</b>.
+> <b>Hello there! I'm [Your Name], a passionate Web Developer with a flair for creating seamless user experiences and sleek, modern web applications.</b>\
+> Want to discuss something? You can reach out to me on discord at <b>div.dev#0</b>.
 
 
 
