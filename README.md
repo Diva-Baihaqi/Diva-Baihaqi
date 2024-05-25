@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://github.com/vaibhavvikas/vaibhavvikas"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas/graphs/contributors"><img src="https://img.shields.io/github/contributors/vaibhavvikas/vaibhavvikas?color=blue"></a>
+    <a href="https://github.com/diva-baihaqi/vaibhavvikas/graphs/contributors"><img src="https://img.shields.io/github/contributors/diva-baihaqi/diva-baihaqi?color=blue"></a>
     <a href="https://github.com/vaibhavvikas"><img src="https://img.shields.io/github/stars/vaibhavvikas"></a>
     <a href="https://github.com/vaibhavvikas/vaibhavvikas/network/members"><img src="https://img.shields.io/github/forks/vaibhavvikas/vaibhavvikas.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=vaibhavvikas.vaibhavvikas" alt="visitors"/>
@@ -9,7 +9,7 @@
 
 [![](./src/header_.png)](#)
 
-> <b>Hello there! I'm [Your Name], a passionate Web Developer with a flair for creating seamless user experiences and sleek, modern web applications.</b>\
+> <b>Hello there! I'm [Diva Baihaqi], a passionate Web Developer with a flair for creating seamless user experiences and sleek, modern web applications.</b>\
 > Want to discuss something? You can reach out to me on discord at <b>div.dev#0</b>.
 
 
