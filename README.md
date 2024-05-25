@@ -1,10 +1,10 @@
 <p align="center">
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/diva-baihaqi/diva-baihaqi"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
-    <a href="https://github.com/diva-baihaqi/vaibhavvikas/graphs/contributors"><img src="https://img.shields.io/github/contributors/diva-baihaqi/diva-baihaqi?color=blue"></a>
-    <a href="https://github.com/vaibhavvikas"><img src="https://img.shields.io/github/stars/vaibhavvikas"></a>
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas/network/members"><img src="https://img.shields.io/github/forks/vaibhavvikas/vaibhavvikas.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=vaibhavvikas.vaibhavvikas" alt="visitors"/>
+    <a href="https://github.com/diva-baihaqi/diva-baihaqi/graphs/contributors"><img src="https://img.shields.io/github/contributors/diva-baihaqi/diva-baihaqi?color=blue"></a>
+    <a href="https://github.com/diva-baihaqi"><img src="https://img.shields.io/github/stars/diva-baihaqi"></a>
+    <a href="https://github.com/diva-baihaqi/diva-baihaqi/network/members"><img src="https://img.shields.io/github/forks/diva-baihaqi/diva-baihaqi.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=diva-baihaqi.diva-baihaqi" alt="visitors"/>
 </p>
 
 [![](./src/header_.png)](#)
