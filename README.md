@@ -1,57 +1,43 @@
-<h1 align="center">Hi 👋, I'm Diva Baihaqi</h1>
-<h3 align="center">A passionate web developer from Indonesia</h3>
+# Hi there 👋, I'm [Diva Baihaqi]!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300" alt="Coding GIF">
-</p>
+![Programmer GIF](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+## 🚀 About Me
+I'm a passionate Web Developer with experience in creating dynamic and responsive web applications. I love exploring new technologies and continuously improving my skills.
 
-- 📫 How to reach me **diva.babah@gmail.com**
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/diva-baihaqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="diva-baihaqi" height="30" width="40" /></a>
-<a href="https://dev.to/divdev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="divdev_" height="30" width="40" /></a>
-<a href="https://twitter.com/divdev__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divdev__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/diva-baihaqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diva-baihaqi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/25241303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25241303" height="30" width="40" /></a>
-<a href="https://codesandbox.com/divdev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="divdev_" height="30" width="40" /></a>
-<a href="https://kaggle.com/babahtzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="babahtzy" height="30" width="40" /></a>
-<a href="https://fb.com/diva.rena2018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diva.rena2018" height="30" width="40" /></a>
-<a href="https://instagram.com/divdev___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divdev___" height="30" width="40" /></a>
-<a href="https://dribbble.com/divdev163_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="divdev163_" height="30" width="40" /></a>
-<a href="https://www.behance.net/divdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="divdev" height="30" width="40" /></a>
-<a href="https://hashnode.com/@divdev163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@divdev163" height="30" width="40" /></a>
-<a href="https://medium.com/@div.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@div.dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/divdev163_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="divdev163_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/divdev163" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="divdev163" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/divdev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="divdev_" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/div.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="div.dev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jedpnuqc46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jedpnuqc46" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@divdev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@divdev_" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/divabmj59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="divabmj59" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/divdev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="divdev_" height="30" width="40" /></a>
-<a href="https://discord.gg/div.dev#0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="div.dev#0" height="30" width="40" /></a>
-</p>
+## 🛠 Skills
+- *Frontend:* HTML, CSS, JavaScript, React, Vue.js
+- *Backend:* Node.js, Express.js, PHP, Django
+- *Databases:* MySQL, MongoDB, PostgreSQL
+- *Tools:* Git, Docker, Webpack, Babel
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
- 
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 📫 How to reach me
+- *Email:* [your.email@example.com](mailto:your.email@example.com)
+- *LinkedIn:* [yourusername](https://www.linkedin.com/in/yourusername/)
+
+## ✍ Blog Posts
+- [How to Build a Responsive Navbar](https://yourblog.com/posts/responsive-navbar)
+- [Understanding JavaScript Closures](https://yourblog.com/posts/javascript-closures)
+
+## 🎨 Projects
+### [Project One](https://github.com/yourusername/project-one)
+A brief description of Project One. Built with React and Node.js.
+
+### [Project Two](https://github.com/yourusername/project-two)
+A brief description of Project Two. Built with Vue.js and Firebase.
+
+### [Project Three](https://github.com/yourusername/project-three)
+A brief description of Project Three. Built with Django and PostgreSQL.
+
+---
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
