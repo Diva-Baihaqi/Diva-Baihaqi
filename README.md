@@ -4,7 +4,7 @@
     <a href="https://github.com/diva-baihaqi/diva-baihaqi/graphs/contributors"><img src="https://img.shields.io/github/contributors/diva-baihaqi/diva-baihaqi?color=blue"></a>
     <a href="https://github.com/diva-baihaqi"><img src="https://img.shields.io/github/stars/diva-baihaqi"></a>
     <a href="https://github.com/diva-baihaqi/diva-baihaqi/network/members"><img src="https://img.shields.io/github/forks/diva-baihaqi/diva-baihaqi.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=diva-baihaqi.diva-baihaqi" alt="visitors"/>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Diva-Baihaqi.Diva-Baihaqi" alt="visitors"/>
 </p>
 
 [![](./src/header_.png)](#)
