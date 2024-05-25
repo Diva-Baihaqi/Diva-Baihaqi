@@ -13,7 +13,7 @@
 
 [![](./src/header_.png)](#)
 
-> <b>Hello there! I'm [Diva Baihaqi], a passionate Web Developer with a flair for creating seamless user experiences and sleek, modern web applications.</b>\
+> <b> 👋 Hello there! I'm [Diva Baihaqi], a passionate Web Developer with a flair for creating seamless user experiences and sleek, modern web applications.</b>\
 > Want to discuss something? You can reach out to me on discord at <b>div.dev#0</b>.
 
 
