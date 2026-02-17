@@ -8,7 +8,7 @@
 
   <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=120&lines=%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%8C%90+Tech+Enthusiast+%7C+Problem+Solver;%F0%9F%8E%AF+Building+Scalable+Web+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=120&lines=%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%8C%90+Tech+Enthusiast+%7C+Problem+Solver;%F0%9F%8E%AF+Building+Scalable+Web+Applications" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -20,14 +20,14 @@
 
   <!-- Profile Badges -->
   <a href="https://github.com/Diva-Baihaqi?tab=followers">
-    <img src="https://img.shields.io/github/followers/Diva-Baihaqi?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=6C63FF" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Diva-Baihaqi?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=00E676" alt="GitHub Followers" />
   </a>
   &nbsp;
   <a href="https://github.com/Diva-Baihaqi?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-View%20All-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Public%20Repos-View%20All-00E676?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Diva-Baihaqi&style=for-the-badge&color=6C63FF&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Diva-Baihaqi&style=for-the-badge&color=00E676&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
@@ -43,7 +43,7 @@
 
 ```yaml
 Nama       : Diva Baihaqi
-Lokasi     : Indonesia 🇮🇩
+Lokasi     : Cirebon, Indonesia 🇮🇩
 Peran      : Full Stack Developer
 Fokus      : Web Development & Cloud Computing
 Belajar    : AI & Machine Learning, Mobile Development
@@ -80,6 +80,13 @@ Fun Fact   : 🐼 Panda lover & Coffee addict ☕
 | 🔧 IDE & Editor | 🎨 Design & Creative | 🛠️ DevOps & Tools |
 | :-: | :-: | :-: |
 | <img src="https://skillicons.dev/icons?i=vscode,obsidian&theme=dark&perline=2" /> | <img src="https://skillicons.dev/icons?i=figma&theme=dark&perline=1" /> [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](#) | <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark&perline=3" /> |
+
+<br/>
+
+<!-- Table Row 4: Management, Testing & Office -->
+| 🧪 Management & Testing | 📂 Office Excellence |
+| :-: | :-: |
+| <img src="https://skillicons.dev/icons?i=selenium,notion&theme=dark&perline=2" /> [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](#) | [![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](#) [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#) [![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](#) |
 
 </div>
 
@@ -137,21 +144,33 @@ Fun Fact   : 🐼 Panda lover & Coffee addict ☕
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Diva-Baihaqi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Diva-Baihaqi&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Diva-Baihaqi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=C9D1D9&ring_color=00E676" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Diva-Baihaqi&show_icons=true&hide_border=true&title_color=00875A&icon_color=00875A" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Diva-Baihaqi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=C9D1D9&ring_color=00E676" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Diva-Baihaqi&hide_border=true&background=0D1117&stroke=00E676&ring=00E676&fire=FF6B6B&currStreakLabel=00E676&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Diva-Baihaqi&hide_border=true&ring=00875A&fire=FF6B6B&currStreakLabel=00875A" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=Diva-Baihaqi&hide_border=true&background=0D1117&stroke=00E676&ring=00E676&fire=FF6B6B&currStreakLabel=00E676&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="GitHub Streak" />
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diva-Baihaqi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Diva-Baihaqi&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=C9D1D9&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Diva-Baihaqi&layout=compact&hide_border=true&title_color=00875A&langs_count=8" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diva-Baihaqi&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  </picture>
 </div>
 
 <br/>
 
 <!-- Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diva-Baihaqi&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diva-Baihaqi&bg_color=0D1117&color=00E676&line=00E676&point=FFFFFF&area=true&area_color=00E676&hide_border=true" alt="Contribution Graph" width="95%"/>
 </div>
 
 ---
@@ -160,7 +179,11 @@ Fun Fact   : 🐼 Panda lover & Coffee addict ☕
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Diva-Baihaqi&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="95%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Diva-Baihaqi&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Diva-Baihaqi&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Diva-Baihaqi&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="95%"/>
+  </picture>
 </div>
 
 ---
@@ -190,6 +213,10 @@ Fun Fact   : 🐼 Panda lover & Coffee addict ☕
   <a href="https://twitter.com/divdev__">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
+  &nbsp;
+  <a href="https://linktr.ee/divdev_">
+    <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+  </a>
 
 </div>
 
@@ -200,7 +227,7 @@ Fun Fact   : 🐼 Panda lover & Coffee addict ☕
 <!-- ==================== FOOTER ==================== -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006994,30:0099CC,60:00B4D8,100:90E0EF&height=120&section=footer" width="100%" />
 
   <br/>
 
