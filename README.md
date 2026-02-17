@@ -1,157 +1,211 @@
-# Halo, Saya Diva Baihaqi! 👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</div>
-
-## 🚀 Tentang Saya
-
-Saya adalah seorang Full Stack Developer yang bersemangat dengan keahlian dalam PHP, Laravel, dan teknologi web modern. Saya senang membuat aplikasi yang efisien, scalable, dan ramah pengguna yang dapat menyelesaikan masalah di dunia nyata.
-
-## 🛠️ Teknologi Yang Saya Gunakan
-
+<!-- ==================== HEADER SECTION ==================== -->
 <div align="center">
 
-## 💻 Sistem Operasi
+  <!-- Animated Waving Hand + Name -->
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
+  
+  # Halo, Saya **Diva Baihaqi**!
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+  <!-- Typing SVG Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=120&lines=%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%8C%90+Tech+Enthusiast+%7C+Problem+Solver;%F0%9F%8E%AF+Building+Scalable+Web+Applications" alt="Typing SVG" />
+  </a>
 
-## 🌈 Front-End Development
+  <br/>
 
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+  <!-- Cute Panda GIF -->
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="160" alt="Cute Panda Coding" />
 
-## ⚡ Back-End Development
+  <br/><br/>
 
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)](#)
-
-## 🎨 Framework
-
-[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
-[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
-[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
-
-## 🗄️ Database
-
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)](#)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff)](#)
-
-## ☁️ Cloud & Hosting
-
-[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
-[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white)](#)
-[![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff)](#)
-
-## 🌐 Browser & Web Tools
-
-[![Brave](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white)](#)
-[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#)
-[![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#)
-[![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)](#)
-
-## 💻 Code Editor & IDE
-
-[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
-
-## 📊 Keahlian Office & Produktivitas
-
-![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-D83B01?style=logo=microsoft-office&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/-Microsoft_Word-2B579A?style=logo=microsoft-word&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft_PowerPoint-B7472A?style=logo=microsoft-powerpoint&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/-Google_Workspace-4285F4?style=logo=google&logoColor=white)
-
-## 🎨 Desain & Multimedia
-
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
-![CapCut](https://img.shields.io/badge/-CapCut-000000?style=f&logocapcut&logoColor=white)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
-
-## 📱 Aplikasi Mobile
-
-![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=logo=whatsapp&logoColor=white)
-![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=logo=telegram&logoColor=white)
-![Discord](https://img.shields.io/badge/-Discord-5865F2?style=logo=discord&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=logoColor=white)
+  <!-- Profile Badges -->
+  <a href="https://github.com/Diva-Baihaqi?tab=followers">
+    <img src="https://img.shields.io/github/followers/Diva-Baihaqi?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=6C63FF" alt="GitHub Followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Diva-Baihaqi?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-View%20All-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Diva-Baihaqi&style=for-the-badge&color=6C63FF&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
-## 🌟 Aktivitas & Minat
+<br/>
 
-### 🎨 Hobi & Kreativitas
+<!-- ==================== ABOUT ME SECTION ==================== -->
 
-- **Fotografi** - Mengabadikan momen indah dalam kehidupan sehari-hari
-- **Desain Grafis** - Mengeksplorasi kreativitas melalui desain digital
-- **Menulis** - Menuangkan ide dan pemikiran dalam bentuk tulisan
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>Tentang Saya</b></em>
 
-### 🎵 Hiburan & Rekreasi
+<br/><br/>
 
-- **Musik** - Mendengarkan berbagai genre musik untuk inspirasi
-- **Film** - Menikmati film-film dengan cerita yang menginspirasi
-- **Traveling** - Menjelajahi tempat baru untuk memperluas wawasan
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="Coding GIF" />
 
-### 🌱 Pengembangan Diri
+```yaml
+Nama       : Diva Baihaqi
+Lokasi     : Indonesia 🇮🇩
+Peran      : Full Stack Developer
+Fokus      : Web Development & Cloud Computing
+Belajar    : AI & Machine Learning, Mobile Development
+Minat      : Open Source, Tech Community, Mentoring
+Fun Fact   : 🐼 Panda lover & Coffee addict ☕
+```
 
-- **Membaca** - Menambah wawasan melalui buku-buku teknologi dan pengembangan diri
-- **Olahraga** - Menjaga kesehatan dengan olahraga ringan
-- **Meditasi** - Menjaga keseimbangan pikiran dan tubuh
+> *"Saya adalah seorang Full Stack Developer yang bersemangat dengan keahlian dalam PHP, Laravel, dan teknologi web modern. Saya senang membuat aplikasi yang efisien, scalable, dan ramah pengguna yang dapat menyelesaikan masalah di dunia nyata."*
 
-### 💡 Minat Teknologi
+<br clear="both"/>
 
-- **AI & Machine Learning** - Mempelajari perkembangan teknologi AI
-- **Web Development** - Mengeksplorasi framework dan tools terbaru
-- **Mobile Apps** - Tertarik dengan pengembangan aplikasi mobile
+---
 
-### 🌍 Aktivitas Sosial
-
-- **Komunitas Tech** - Berpartisipasi dalam komunitas developer lokal
-- **Mentoring** - Berbagi pengetahuan dengan sesama developer pemula
-- **Networking** - Membangun relasi dengan profesional di bidang teknologi
-
-## 📊 Statistik GitHub
+<!-- ==================== TECH STACK SECTION ==================== -->
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diva-Baihaqi&show_icons=true&theme=github_dark" alt="Statistik GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diva-Baihaqi&layout=compact&theme=github_dark" alt="Bahasa Teratas" />
-</div>
 
-## 📫 Hubungi Saya
+<!-- Table Row 1: Core Development -->
+| 🌈 Front-End Development | ⚡ Back-End Development | 🎨 Frameworks |
+| :-: | :-: | :-: |
+| <img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark&perline=4" /> | <img src="https://skillicons.dev/icons?i=php,python,nodejs&theme=dark&perline=3" /> | <img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind,flask,django&theme=dark&perline=5" /> |
 
-<div align="center">
-  <a href="https://github.com/Diva-Baihaqi">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/diva-baihaqi">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:diva.babah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/divdev__">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</div>
+<br/>
 
-## 📈 Streak GitHub
+<!-- Table Row 2: Data & Cloud -->
+| 🗄️ Database | ☁️ Cloud & Hosting | 💻 OS & Platforms |
+| :-: | :-: | :-: |
+| <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark&perline=3" /> | <img src="https://skillicons.dev/icons?i=vercel,gcp,cloudflare,aws&theme=dark&perline=4" /> | <img src="https://skillicons.dev/icons?i=windows,androidstudio&theme=dark&perline=2" /> |
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diva-Baihaqi&theme=github-dark" alt="Streak GitHub" />
+<br/>
+
+<!-- Table Row 3: Tools & Productivity -->
+| 🔧 IDE & Editor | 🎨 Design & Creative | 🛠️ DevOps & Tools |
+| :-: | :-: | :-: |
+| <img src="https://skillicons.dev/icons?i=vscode,obsidian&theme=dark&perline=2" /> | <img src="https://skillicons.dev/icons?i=figma&theme=dark&perline=1" /> [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](#) | <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark&perline=3" /> |
+
 </div>
 
 ---
 
+<!-- ==================== ACTIVITY & INTERESTS ==================== -->
+<h2 align="center">🌟 Aktivitas & Minat</h2>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Diva-Baihaqi&color=blueviolet" alt="Jumlah Pengunjung" />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Hobi & Kreativitas
+| Aktivitas | Deskripsi |
+| :--- | :--- |
+| 📸 **Fotografi** | Mengabadikan momen indah |
+| 🎨 **Desain Grafis** | Kreativitas melalui desain digital |
+| ✍️ **Menulis** | Menuangkan ide & pemikiran |
+
+### 🎵 Hiburan & Rekreasi
+| Aktivitas | Deskripsi |
+| :--- | :--- |
+| 🎵 **Musik** | Berbagai genre untuk inspirasi |
+| 🎬 **Film** | Cerita yang menginspirasi |
+| ✈️ **Traveling** | Memperluas wawasan dunia |
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 Minat Teknologi
+| Bidang | Fokus |
+| :--- | :--- |
+| 🤖 **AI & ML** | Perkembangan teknologi AI |
+| 🌐 **Web Dev** | Framework & tools terbaru |
+| 📱 **Mobile Apps** | Pengembangan aplikasi mobile |
+
+### 🌍 Aktivitas Sosial
+| Kegiatan | Detail |
+| :--- | :--- |
+| 👥 **Komunitas Tech** | Developer lokal |
+| 🎓 **Mentoring** | Berbagi dengan pemula |
+| 🤝 **Networking** | Relasi profesional IT |
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ==================== GITHUB STATS SECTION ==================== -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Diva-Baihaqi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Diva-Baihaqi&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diva-Baihaqi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+</div>
+
+<br/>
+
+<!-- Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diva-Baihaqi&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true" alt="Contribution Graph" width="95%"/>
+</div>
+
+---
+
+<!-- ==================== TROPHIES SECTION ==================== -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Diva-Baihaqi&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="95%"/>
+</div>
+
+---
+
+<!-- ==================== CONNECT SECTION ==================== -->
+<h2 align="center">🤝 Let's Connect!</h2>
+
+<div align="center">
+
+  <!-- Cute Panda Wave GIF -->
+  <img src="https://media.giphy.com/media/EatwJZRUIv41G/giphy.gif" width="120" alt="Panda Wave" />
+
+  <br/><br/>
+
+  <a href="https://github.com/Diva-Baihaqi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/diva-baihaqi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:diva.babah@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/divdev__">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ==================== FOOTER ==================== -->
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" width="100%" />
+
+  <br/>
+
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" />
+  <em><b>Thanks for visiting! Have a nice day!</b></em> 🐼
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" />
+
 </div>
