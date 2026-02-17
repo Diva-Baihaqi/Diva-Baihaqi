@@ -144,26 +144,14 @@ Fun Fact   : 🐼 Panda lover & Coffee addict ☕
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Diva-Baihaqi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=C9D1D9&ring_color=00E676" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Diva-Baihaqi&show_icons=true&hide_border=true&title_color=00875A&icon_color=00875A" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Diva-Baihaqi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=C9D1D9&ring_color=00E676" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Diva-Baihaqi&hide_border=true&background=0D1117&stroke=00E676&ring=00E676&fire=FF6B6B&currStreakLabel=00E676&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Diva-Baihaqi&hide_border=true&ring=00875A&fire=FF6B6B&currStreakLabel=00875A" />
-    <img width="49%" src="https://streak-stats.demolab.com?user=Diva-Baihaqi&hide_border=true&background=0D1117&stroke=00E676&ring=00E676&fire=FF6B6B&currStreakLabel=00E676&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="GitHub Streak" />
-  </picture>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Diva-Baihaqi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=C9D1D9&ring_color=00E676" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Diva-Baihaqi&hide_border=true&background=0D1117&stroke=00E676&ring=00E676&fire=FF6B6B&currStreakLabel=00E676&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Diva-Baihaqi&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=C9D1D9&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Diva-Baihaqi&layout=compact&hide_border=true&title_color=00875A&langs_count=8" />
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diva-Baihaqi&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-  </picture>
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Diva-Baihaqi&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
@@ -179,11 +167,7 @@ Fun Fact   : 🐼 Panda lover & Coffee addict ☕
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Diva-Baihaqi&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Diva-Baihaqi&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Diva-Baihaqi&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="95%"/>
-  </picture>
+  <img src="https://github-profile-trophy-psi.vercel.app/?username=Diva-Baihaqi&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="95%"/>
 </div>
 
 ---
