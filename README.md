@@ -48,7 +48,7 @@ Peran      : Full Stack Developer
 Fokus      : Web Development & Cloud Computing
 Belajar    : AI & Machine Learning, Mobile Development
 Minat      : Open Source, Tech Community, Mentoring
-Fun Fact   : 🐼 Panda lover & Coffee addict ☕
+Fun Fact   : 🐼 Panda lover, Coffee addict ☕ & Chef at home 🍳
 ```
 
 > *"Saya adalah seorang Full Stack Developer yang bersemangat dengan keahlian dalam PHP, Laravel, dan teknologi web modern. Saya senang membuat aplikasi yang efisien, scalable, dan ramah pengguna yang dapat menyelesaikan masalah di dunia nyata."*
@@ -62,31 +62,19 @@ Fun Fact   : 🐼 Panda lover & Coffee addict ☕
 
 <div align="center">
 
-<!-- Table Row 1: Core Development -->
-| 🌈 Front-End Development | ⚡ Back-End Development | 🎨 Frameworks |
+<!-- Table 1: Core Technical Skills -->
+
+| 💻 Languages & Frameworks | ☁️ Database & Infrastructure | 🎨 Design & Creative |
 | :-: | :-: | :-: |
-| <img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark&perline=4" /> | <img src="https://skillicons.dev/icons?i=php,python,nodejs&theme=dark&perline=3" /> | <img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind,flask,django&theme=dark&perline=5" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,php,python,nodejs,laravel,bootstrap,tailwind,flask,django&theme=dark&perline=6" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,vercel,gcp,cloudflare,aws&theme=dark&perline=4" /> | <img src="https://skillicons.dev/icons?i=figma&theme=dark&perline=1" /> [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](#) |
 
 <br/>
 
-<!-- Table Row 2: Data & Cloud -->
-| 🗄️ Database | ☁️ Cloud & Hosting | 💻 OS & Platforms |
+<!-- Table 2: Tools & Productivity -->
+
+| 🛠️ Development Environment | 🧪 Project Management & QA | 📂 Office Suite |
 | :-: | :-: | :-: |
-| <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark&perline=3" /> | <img src="https://skillicons.dev/icons?i=vercel,gcp,cloudflare,aws&theme=dark&perline=4" /> | <img src="https://skillicons.dev/icons?i=windows,androidstudio&theme=dark&perline=2" /> |
-
-<br/>
-
-<!-- Table Row 3: Tools & Productivity -->
-| 🔧 IDE & Editor | 🎨 Design & Creative | 🛠️ DevOps & Tools |
-| :-: | :-: | :-: |
-| <img src="https://skillicons.dev/icons?i=vscode,obsidian&theme=dark&perline=2" /> | <img src="https://skillicons.dev/icons?i=figma&theme=dark&perline=1" /> [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](#) | <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark&perline=3" /> |
-
-<br/>
-
-<!-- Table Row 4: Management, Testing & Office -->
-| 🧪 Management & Testing | 📂 Office Excellence |
-| :-: | :-: |
-| <img src="https://skillicons.dev/icons?i=selenium,notion&theme=dark&perline=2" /> [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](#) | [![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](#) [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#) [![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](#) |
+| <img src="https://skillicons.dev/icons?i=vscode,obsidian,git,github,postman,windows,androidstudio&theme=dark&perline=4" /> | <img src="https://skillicons.dev/icons?i=selenium,notion&theme=dark&perline=2" /> [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](#) | [![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](#) [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#) [![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](#) |
 
 </div>
 
@@ -111,9 +99,9 @@ Fun Fact   : 🐼 Panda lover & Coffee addict ☕
 ### 🎵 Hiburan & Rekreasi
 | Aktivitas | Deskripsi |
 | :--- | :--- |
+| 🍳 **Memasak** | Eksplorasi resep & kuliner baru |
 | 🎵 **Musik** | Berbagai genre untuk inspirasi |
 | 🎬 **Film** | Cerita yang menginspirasi |
-| ✈️ **Traveling** | Memperluas wawasan dunia |
 
 </td>
 <td width="50%" valign="top">
