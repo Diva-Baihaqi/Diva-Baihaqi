@@ -76,4 +76,59 @@ Saya **Full Stack Developer** yang fokus di **PHP, Laravel**, dan teknologi web 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Diva-Baihaqi&show
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Diva-Baihaqi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=C9D1D9&ring_color=00E676&rank_icon=github" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Diva-Baihaqi&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=Diva-Baihaqi&hide_border=true&background=0D1117&stroke=00E676&ring=00E676&fire=FF6B6B&currStreakLabel=00E676&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Diva-Baihaqi&bg_color=0D1117&color=00E676&line=00E676&point=FFFFFF&area=true&area_color=00E676&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+<!-- ==================== TROPHIES ==================== -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="32" /> GitHub Trophies
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-trophy-liard-delta.vercel.app/?username=Diva-Baihaqi&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+
+</div>
+
+<!-- ==================== SNAKE ==================== -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="32" /> Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diva-Baihaqi/Diva-Baihaqi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diva-Baihaqi/Diva-Baihaqi/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Diva-Baihaqi/Diva-Baihaqi/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<!-- ==================== CONNECT ==================== -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="32" /> Let's Connect!
+
+<div align="center">
+
+<a href="https://github.com/Diva-Baihaqi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/diva-baihaqi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:diva.babah@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://twitter.com/divdev__"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://linktr.ee/divdev_"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+
+</div>
+
+<!-- ==================== FOOTER ==================== -->
+<div align="center">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" width="60" />
+
+**Terima kasih sudah berkunjung! Have a nice day!** 🐼
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006994,100:00E676&height=120&section=footer" width="100%" />
+
+</div>
