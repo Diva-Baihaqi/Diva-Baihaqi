@@ -76,12 +76,21 @@ Saya **Full Stack Developer** yang fokus di **PHP, Laravel**, dan teknologi web 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Diva-Baihaqi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=C9D1D9&ring_color=00E676&rank_icon=github" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Diva-Baihaqi&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="95%" alt="Profile Details" />
+
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Stats" />
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=Diva-Baihaqi&hide_border=true&background=0D1117&stroke=00E676&ring=00E676&fire=FF6B6B&currStreakLabel=00E676&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Diva-Baihaqi&bg_color=0D1117&color=00E676&line=00E676&point=FFFFFF&area=true&area_color=00E676&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<!-- ==================== CONTRIBUTION CHART ==================== -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="32" /> Contribution Chart
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/00C853/Diva-Baihaqi" width="95%" alt="Contribution Chart" />
 
 </div>
 
